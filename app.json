@@ -22,6 +22,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bd4567fb-2a62-49ca-b75b-9ab1c82da776"
+      }
+    },
+    "owner": "umsungjun",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/bd4567fb-2a62-49ca-b75b-9ab1c82da776"
     }
   }
 }
